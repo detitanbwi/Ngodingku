@@ -1,5 +1,6 @@
 import csv,json,time
 import os
+print("Hello world!")
 os.system("cls")
 def menu():
     os.system("cls")
